@@ -1,0 +1,7 @@
+input_file=input_template.csv
+
+output_file=output.csv
+
+method=2
+
+path=2
